@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: Html-output-plugin
+Version: 0.1.2
+Summary: Nose html output plugin
+Home-page: UNKNOWN
+Author: Andrey Nikishaev
+Author-email: creotiv@gmail.com
+License: GNU LGPL
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: coverage (>= 2.85)

@@ -1,0 +1,8 @@
+htmlplug.py
+setup.py
+template.py
+Html_output_plugin.egg-info/PKG-INFO
+Html_output_plugin.egg-info/SOURCES.txt
+Html_output_plugin.egg-info/dependency_links.txt
+Html_output_plugin.egg-info/entry_points.txt
+Html_output_plugin.egg-info/top_level.txt
