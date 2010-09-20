@@ -1,5 +1,8 @@
 This is package for testing with Nose under Django framework.
 
+Package contain code from http://bitbucket.org/kmike/django-coverage/src that
+goes under Apache License 2.0
+
 Installation:
     easy_install coverage
     python htmlplug/setup.py install
